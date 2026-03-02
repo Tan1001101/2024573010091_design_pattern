@@ -1,6 +1,6 @@
 package pratikum_1.latihan;
 
-public class Latihan {
+public class LatihanVariabel {
         public static void main(String[] args){
             int umur = 19;
             double tinggi = 1.75;
