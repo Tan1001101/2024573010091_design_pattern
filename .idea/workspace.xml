@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74200cee-6bf3-422e-9199-ea2cf23ca945" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_1/latihan/LatihanOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_1/latihan/LatihanPercabangan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_1/latihan/LatihanPerulangan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_1/Faktorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_1/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_1/Latihan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_1/Operator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_1/Percabangan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_1/Perulangan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_1/Prima.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_1/Segitiga.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_1/Variable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_1/latihan/Latihan.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_1/latihan/LatihanVariabel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,9 +51,9 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LatihanOperator">
-    <configuration name="Faktorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pratikum_1.Faktorial" />
+  <component name="RunManager" selected="Application.LatihanPerulangan">
+    <configuration name="LatihanOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pratikum_1.latihan.LatihanOperator" />
       <module name="ti_design_pattern" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LatihanOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pratikum_1.latihan.LatihanOperator" />
+    <configuration name="LatihanPerulangan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pratikum_1.latihan.LatihanPerulangan" />
       <module name="ti_design_pattern" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LatihanPerulangan" />
         <item itemvalue="Application.LatihanOperator" />
         <item itemvalue="Application.LatihanVariabel" />
         <item itemvalue="Application.Segitiga" />
         <item itemvalue="Application.Prima" />
-        <item itemvalue="Application.Faktorial" />
       </list>
     </recent_temporary>
   </component>
