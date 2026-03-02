@@ -5,7 +5,7 @@ public class Latihan {
             int umur = 19;
             double tinggi = 1.75;
             boolean isMahasiswa = true;
-            char jenisKelamin = 'Laki - laki';
+            String jenisKelamin = "Laki - laki";
             String nama  = "Fathan Al Ghifari";
             String tempatTinggal = "Lhokseumawe";
             String tanggalLahir = "24 agustus 2006";
