@@ -1,4 +1,4 @@
-package modul_1;
+package pratikum_1.latihan;
 
 public class Latihan {
         public static void main(String[] args){

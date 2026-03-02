@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74200cee-6bf3-422e-9199-ea2cf23ca945" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_1/Faktorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_1/Faktorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_1/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_1/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_1/Latihan.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_1/latihan/Latihan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_1/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_1/Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_1/Percabangan.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_1/Percabangan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_1/Perulangan.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_1/Perulangan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_1/Prima.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_1/Prima.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_1/Segitiga.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_1/Segitiga.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_1/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_1/Variable.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3A3SDtUQyCopf4n5DHpqBsOnHyt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Faktorial.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.Latihan.executor": "Run",
+    "Application.Operator.executor": "Run",
+    "Application.Percabangan.executor": "Run",
+    "Application.Perulangan.executor": "Run",
+    "Application.Prima.executor": "Run",
+    "Application.Segitiga.executor": "Run",
+    "Application.Variable.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Latihan">
+    <configuration name="Faktorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pratikum_1.Faktorial" />
+      <module name="ti_design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pratikum_1.latihan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Latihan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pratikum_1.latihan.Latihan" />
+      <module name="ti_design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pratikum_1.latihan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Perulangan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pratikum_1.Perulangan" />
+      <module name="ti_design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pratikum_1.latihan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prima" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pratikum_1.Prima" />
+      <module name="ti_design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pratikum_1.latihan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Segitiga" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pratikum_1.Segitiga" />
+      <module name="ti_design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pratikum_1.latihan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Latihan" />
+        <item itemvalue="Application.Segitiga" />
+        <item itemvalue="Application.Prima" />
+        <item itemvalue="Application.Faktorial" />
+        <item itemvalue="Application.Perulangan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74200cee-6bf3-422e-9199-ea2cf23ca945" name="Changes" comment="" />
+      <created>1771819644504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771819644504</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,3 +1,29 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+# Compiled class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Output directory for build artifacts (Maven/Gradle)
+target/
+build/
+
+# IDE-specific files and directories
+.idea/         # IntelliJ IDEA
+.vscode/       # VS Code
+.settings/     # Eclipse
+.project       # Eclipse
+.classpath     # Eclipse
+nbproject/private/ # NetBeans
+nbbuild/       # NetBeans
+dist/          # NetBeans
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# Operating System files
+.DS_Store      # macOS
+*.swp          # Vim temporary files
+*~             # Emacs temporary files
