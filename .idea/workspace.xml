@@ -5,6 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74200cee-6bf3-422e-9199-ea2cf23ca945" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/laporan.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +50,9 @@
     "Application.HelloWorld.executor": "Run",
     "Application.Latihan.executor": "Run",
     "Application.LatihanOperator.executor": "Run",
+    "Application.LatihanPercabangan.executor": "Run",
+    "Application.LatihanPerulangan.executor": "Run",
+    "Application.LatihanVariabel.executor": "Run",
     "Application.Operator.executor": "Run",
     "Application.Percabangan.executor": "Run",
     "Application.Perulangan.executor": "Run",
@@ -48,16 +65,17 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LatihanPerulangan">
-    <configuration name="LatihanOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pratikum_1.latihan.LatihanOperator" />
+  <component name="RunManager" selected="Application.Segitiga">
+    <configuration name="Faktorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pratikum_1.Faktorial" />
       <module name="ti_design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pratikum_1.latihan.*" />
+          <option name="PATTERN" value="pratikum_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LatihanVariabel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pratikum_1.latihan.LatihanVariabel" />
+    <configuration name="Perulangan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pratikum_1.Perulangan" />
       <module name="ti_design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pratikum_1.latihan.*" />
+          <option name="PATTERN" value="pratikum_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,7 +114,7 @@
       <module name="ti_design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pratikum_1.latihan.*" />
+          <option name="PATTERN" value="pratikum_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,7 +127,7 @@
       <module name="ti_design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pratikum_1.latihan.*" />
+          <option name="PATTERN" value="pratikum_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LatihanPerulangan" />
-        <item itemvalue="Application.LatihanOperator" />
-        <item itemvalue="Application.LatihanVariabel" />
         <item itemvalue="Application.Segitiga" />
         <item itemvalue="Application.Prima" />
+        <item itemvalue="Application.Faktorial" />
+        <item itemvalue="Application.LatihanPerulangan" />
+        <item itemvalue="Application.Perulangan" />
       </list>
     </recent_temporary>
   </component>
