@@ -5,20 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74200cee-6bf3-422e-9199-ea2cf23ca945" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/gambar/img_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_1/laporan.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_1/Mahasiswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_2/Mahasiswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_3/komposisi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_3/komposisi/Mesin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_3/komposisi/Mobil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_3/pewarisan/Kendaraan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_3/pewarisan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_3/pewarisan/Mobil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_4/overloading/Kalkulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_4/overloading/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_4/overriding/Anjing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_4/overriding/Hewan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_4/overriding/Kucing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_4/overriding/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_5/abstrak/Anjing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_5/abstrak/Hewan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_5/abstrak/Kucing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_5/abstrak/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_5/antarmuka/Bergerak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_5/antarmuka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_5/antarmuka/Mobil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_5/antarmuka/Pesawat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_6/Pesanan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_6/Tiket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_6/TiketReguler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_6/TiketVIP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/latihan/BangunDatar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/latihan/Berenang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/latihan/Buku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/latihan/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/latihan/Lingkaran.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/latihan/Matematika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/latihan/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/latihan/Persegi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,12 +77,21 @@
     "Application.LatihanPercabangan.executor": "Run",
     "Application.LatihanPerulangan.executor": "Run",
     "Application.LatihanVariabel.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main_BangunDatar.executor": "Run",
+    "Application.Main_Laptop.executor": "Run",
     "Application.Operator.executor": "Run",
     "Application.Percabangan.executor": "Run",
     "Application.Perulangan.executor": "Run",
     "Application.Prima.executor": "Run",
     "Application.Segitiga.executor": "Run",
     "Application.Variable.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.modul_3.bagian_2.Main.executor": "Run",
+    "Application.modul_3.bagian_3.Main.executor": "Run",
+    "Application.modul_3.bagian_3.pewarisan.Main.executor": "Run",
+    "Application.modul_3.bagian_4.overloading.Main.executor": "Run",
+    "Application.modul_3.bagian_5.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -69,13 +102,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Segitiga">
-    <configuration name="Faktorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pratikum_1.Faktorial" />
+  <component name="RunManager" selected="Application.KonferensiApp">
+    <configuration name="KonferensiApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul_3.bagian_6.KonferensiApp" />
       <module name="ti_design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pratikum_1.*" />
+          <option name="PATTERN" value="modul_3.bagian_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LatihanPerulangan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pratikum_1.latihan.LatihanPerulangan" />
+    <configuration name="Main_BangunDatar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul_3.latihan.Main_BangunDatar" />
       <module name="ti_design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pratikum_1.latihan.*" />
+          <option name="PATTERN" value="modul_3.latihan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Perulangan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pratikum_1.Perulangan" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul_3.latihan.main" />
       <module name="ti_design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pratikum_1.*" />
+          <option name="PATTERN" value="modul_3.latihan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prima" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pratikum_1.Prima" />
+    <configuration name="modul_3.bagian_4.overloading.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul_3.bagian_4.overloading.Main" />
       <module name="ti_design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pratikum_1.*" />
+          <option name="PATTERN" value="modul_3.bagian_4.overloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Segitiga" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pratikum_1.Segitiga" />
+    <configuration name="modul_3.bagian_5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modul_3.bagian_5.Main" />
       <module name="ti_design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pratikum_1.*" />
+          <option name="PATTERN" value="modul_3.bagian_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Segitiga" />
-        <item itemvalue="Application.Prima" />
-        <item itemvalue="Application.Faktorial" />
-        <item itemvalue="Application.LatihanPerulangan" />
-        <item itemvalue="Application.Perulangan" />
+        <item itemvalue="Application.KonferensiApp" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.modul_3.bagian_5.Main" />
+        <item itemvalue="Application.Main_BangunDatar" />
+        <item itemvalue="Application.modul_3.bagian_4.overloading.Main" />
       </list>
     </recent_temporary>
   </component>
