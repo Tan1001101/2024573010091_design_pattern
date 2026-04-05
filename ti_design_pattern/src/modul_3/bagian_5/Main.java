@@ -18,7 +18,7 @@ class Burung extends Hewan implements Terbang{
 
     @Override
     public void terbang(){
-        System.out.println(nama + "sedang terbang");
+        System.out.println(nama + " sedang terbang");
     }
 }
 
