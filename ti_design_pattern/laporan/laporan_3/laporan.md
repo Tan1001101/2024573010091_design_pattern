@@ -14,11 +14,11 @@ OOP (Object-Oriented Programming) adalah paradigma pemrograman yang menggunakan 
 
 ### Langkah Pratikum
 1. Buka project pada praktikum sebelumnya menggunakan intellij IDEA
-2. Buat sebuah package baru di dalam folder src dengan cara klik kanan pada folder src kemudian pilih New -> Package. Beri nama modul_3.
-3. Buat Sebuah package baru lagi didalam package modul_3 dengan cara klik kanan dan pilih New -> Package. Beri nama bagian_1
+2. Buat sebuah package baru di dalam folder src dengan cara klik kanan pada folder src kemudian pilih New -> Package. Beri nama pratikum_3.
+3. Buat Sebuah package baru lagi didalam package pratikum_3 dengan cara klik kanan dan pilih New -> Package. Beri nama bagian_1
 4. Kemudian buat sebuah class baru dengan nama Mahasiswa dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_1;
+package pratikum_3.bagian_1;
 
 public class Mahasiswa {
     String nama;
@@ -32,7 +32,7 @@ public class Mahasiswa {
 ```
 5. Selanjutnya, buat sebuah class baru dengan nama Main dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_1;
+package pratikum_3.bagian_1;
 
 public class Main {
     public static void main(String[] args){
@@ -60,10 +60,10 @@ hasilnya:
 Encapsulation adalah konsep menyembunyikan detail internal objek dan hanya mengekspos fungsionalitas yang diperlukan. Ini dilakukan dengan menggunakan access modifier (private, public, protected) dan getter-setter.
 
 ### Langkah Praktikum
-1. Buat Sebuah package baru lagi didalam package modul_3 dengan cara klik kanan dan pilih New -> Package. Beri nama bagian_2
+1. Buat Sebuah package baru lagi didalam package pratikum_3 dengan cara klik kanan dan pilih New -> Package. Beri nama bagian_2
 2. Kemudian buat sebuah class baru dengan nama Mahasiswa dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_2;
+package pratikum_3.bagian_2;
 
 public class Mahasiswa {
     private String nama;
@@ -88,7 +88,7 @@ public class Mahasiswa {
 ```
 3. Kemudian buat sebuah class baru dengan nama Main dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_2;
+package pratikum_3.bagian_2;
 
 public class Main {
     public static void main(String[] args){
@@ -109,7 +109,7 @@ hasilnya:
 2. Buat getter dan setter untuk atribut tersebut.
 hasilnya:  
 ```declarative
-package modul_3.latihan;
+package pratikum_3.latihan;
 
 public class Motor {
     private String merk;
@@ -150,11 +150,11 @@ Inheritance adalah mekanisme di mana sebuah class (subclass/child class) mewaris
 * Subclass dapat menambahkan atribut dan metode baru, atau meng-override metode yang ada.
 * Mendukung hierarki class (class dapat mewarisi dari satu superclass).
 ### Langkah Praktikum
-1. Buat Sebuah package baru lagi didalam package modul_3 dengan cara klik kanan dan pilih New -> Package. Beri nama bagian_3
+1. Buat Sebuah package baru lagi didalam package pratikum_3 dengan cara klik kanan dan pilih New -> Package. Beri nama bagian_3
 2. Buat package baru di dalam bagian_3 dan beri nama pewarisan
 3. Kemudian buat sebuah class baru dengan nama Kendaraan dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_3.pewarisan;
+package pratikum_3.bagian_3.pewarisan;
 
 public class Kendaraan {
     String merk;
@@ -168,7 +168,7 @@ public class Kendaraan {
 ```
 4. Kemudian buat sebuah class baru dengan nama Mobil dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_3.pewarisan;
+package pratikum_3.bagian_3.pewarisan;
 
 public class Mobil extends Kendaraan {
     int jumlahPintu;
@@ -182,7 +182,7 @@ public class Mobil extends Kendaraan {
 ```
 5. Kemudian buat sebuah class baru dengan nama Main dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_3.pewarisan;
+package pratikum_3.bagian_3.pewarisan;
 
 public class Main {
     public static void main(String[] args){
@@ -210,7 +210,7 @@ Composition adalah mekanisme di mana sebuah class terdiri dari objek-objek dari 
 1. Buat package baru di dalam bagian_3 dan beri nama komposisi
 2. Kemudian buat sebuah class baru dengan nama Mesin dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_3.komposisi;
+package pratikum_3.bagian_3.komposisi;
 
 public class Mesin {
     void hidupkan(){
@@ -224,7 +224,7 @@ public class Mesin {
 ```
 3. Kemudian buat sebuah class baru dengan nama Mobil dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_3.komposisi;
+package pratikum_3.bagian_3.komposisi;
 
 public class Mobil {
     private final Mesin mesin;
@@ -246,7 +246,7 @@ public class Mobil {
 ```
 4. Kemudian buat sebuah class baru dengan nama Main dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_3.komposisi;
+package pratikum_3.bagian_3.komposisi;
 
 public class Main {
     public static void main(String[] args){
@@ -285,7 +285,7 @@ Kita juga bisa mengkombinasikan inheritance dengan composition.
 ### Langkah Praktikum
 1. Di dalam package `bagian_3`, buat sebuah class baru dan beri nama `Main` dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_3;
+package pratikum_3.bagian_3;
 
 class Mesin {
     void hidupkan(){
@@ -356,11 +356,11 @@ Method overriding terjadi ketika subclass (class anak) menyediakan implementasi 
 - Method tidak bisa di-override jika di superclass dideklarasikan sebagai final.
 
 ### Langkah Praktikum
-1. Buat Sebuah package baru lagi didalam package `modul_3` dengan cara klik kanan dan pilih `New -> Package`. Beri nama `bagian_4`
+1. Buat Sebuah package baru lagi didalam package `pratikum_3` dengan cara klik kanan dan pilih `New -> Package`. Beri nama `bagian_4`
 2. Kemudian buat sebuah package baru di dalam `bagian_4` dan beri nama `overriding`
 3. Kemudian buat sebuah class baru dengan nama `Hewan` dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_4.overriding;
+package pratikum_3.bagian_4.overriding;
 
 public class Hewan {
     void bersuara(){
@@ -370,7 +370,7 @@ public class Hewan {
 ```
 4. Kemudian buat sebuah class baru dengan nama Kucing dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_4.overriding;
+package pratikum_3.bagian_4.overriding;
 
 public class Kucing extends Hewan{
     @Override
@@ -381,7 +381,7 @@ public class Kucing extends Hewan{
 ```
 5. Kemudian buat sebuah class baru dengan nama Anjing dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_4.overriding;
+package pratikum_3.bagian_4.overriding;
 
 public class Anjing extends Hewan{
     @Override
@@ -392,7 +392,7 @@ public class Anjing extends Hewan{
 ```
 6. Kemudian buat sebuah class baru dengan nama Main dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_4.overriding;
+package pratikum_3.bagian_4.overriding;
 
 public class Main {
     public static void main(String[] args){
@@ -420,7 +420,7 @@ Method overloading terjadi ketika sebuah class memiliki beberapa method dengan n
 1. Buat sebuah package baru di dalam `bagian_4` dan beri nama `overloading`
 2. Kemudian buat sebuah class baru dengan nama `Kalkulator` dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_4.overloading;
+package pratikum_3.bagian_4.overloading;
 
 public class Kalkulator {
     int tambah(int a, int b){
@@ -438,7 +438,7 @@ public class Kalkulator {
 ```
 3. Kemudian buat sebuah class baru dengan nama `Main` dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_4.overloading;
+package pratikum_3.bagian_4.overloading;
 
 public class Main {
     public static void main(String[] args){
@@ -470,7 +470,7 @@ hasilnya:
 3. Implementasikan method hitungLuas() di masing-masing subclass.
 hasilnya:
 ```declarative
-package modul_3.latihan;
+package pratikum_3.latihan;
 
 import javax.print.attribute.standard.PrinterIsAcceptingJobs;
 
@@ -481,7 +481,7 @@ public class BangunDatar{
 }
 ```
 ```declarative
-package modul_3.latihan;
+package pratikum_3.latihan;
 
 public class Persegi extends BangunDatar{
     @Override
@@ -492,7 +492,7 @@ public class Persegi extends BangunDatar{
 }
 ```
 ```declarative
-package modul_3.latihan;
+package pratikum_3.latihan;
 
 public class Lingkaran extends BangunDatar{
     @Override
@@ -506,7 +506,7 @@ public class Lingkaran extends BangunDatar{
 2. Tambahkan method tambah() yang menerima 2 parameter bertipe double.
 hasilnya:  
 ```declarative
-package modul_3.latihan;
+package pratikum_3.latihan;
 
 public class Matematika {
 
@@ -535,11 +535,11 @@ Abstract class adalah class yang tidak dapat diinstansiasi (tidak bisa dibuat ob
 - Subclass yang mewarisi abstract class harus mengimplementasikan semua method abstrak (kecuali subclass tersebut juga abstract).
 
 ### Langkah Praktikum
-1. Buat Sebuah package baru lagi didalam package `modul_3` dengan cara klik kanan dan pilih `New -> Package`. Beri nama `bagian_5`
+1. Buat Sebuah package baru lagi didalam package `pratikum_3` dengan cara klik kanan dan pilih `New -> Package`. Beri nama `bagian_5`
 2. Buat sebuah package baru di dalam `bagian_5` dan beri nama `abstrak`.
 3. Kemudian buat sebuah class baru di dalam `abtrak` dengan nama `Hewan` dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_5.abstrak;
+package pratikum_3.bagian_5.abstrak;
 
 abstract class Hewan {
     String nama;
@@ -553,7 +553,7 @@ abstract class Hewan {
 ```
 4. Kemudian buat sebuah class baru di dalam `abtrak` dengan nama `Kucing` dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_5.abstrak;
+package pratikum_3.bagian_5.abstrak;
 
 public class Kucing extends Hewan{
     @Override
@@ -564,7 +564,7 @@ public class Kucing extends Hewan{
 ```
 5. Kemudian buat sebuah class baru di dalam `abtrak` dengan nama `Anjing` dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_5.abstrak;
+package pratikum_3.bagian_5.abstrak;
 
 public class Anjing extends Hewan{
     @Override
@@ -575,7 +575,7 @@ public class Anjing extends Hewan{
 ```
 6. Kemudian buat sebuah class baru dengan nama `Main` dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_5.abstrak;
+package pratikum_3.bagian_5.abstrak;
 
 public class main {
     public static void main(String[] args){
@@ -609,7 +609,7 @@ Interface adalah blueprint untuk class yang hanya berisi method abstrak (sebelum
 1. Buat sebuah package baru di dalam `bagian_5` dan beri nama `antarmuka`.
 2. Kemudian buat sebuah interface baru di dalam `antarmuka` dengan nama `Bergerak` dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_5.antarmuka;
+package pratikum_3.bagian_5.antarmuka;
 
 interface Bergerak {
 
@@ -626,7 +626,7 @@ interface Bergerak {
 ```
 3. Kemudian buat sebuah class baru di dalam `antarmuka` dengan nama `Mobil` dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_5.antarmuka;
+package pratikum_3.bagian_5.antarmuka;
 
 public class Mobil implements Bergerak{
     @Override
@@ -637,7 +637,7 @@ public class Mobil implements Bergerak{
 ```
 4. Kemudian buat sebuah class baru di dalam `antarmuka` dengan nama `Pesawat` dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_5.antarmuka;
+package pratikum_3.bagian_5.antarmuka;
 
 public class Pesawat implements Bergerak{
     @Override
@@ -648,7 +648,7 @@ public class Pesawat implements Bergerak{
 ```
 5. Kemudian buat sebuah class baru dengan nama `Main` dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_5.antarmuka;
+package pratikum_3.bagian_5.antarmuka;
 
 public class Main {
     public static void main(String[] args){
@@ -693,7 +693,7 @@ Dalam Sebuah program, kita juga dapat mengkombinasikan abstract class dengan int
 ### Langkah Praktikum
 1. Didalam package `bagian_5`, buatlah sebuah class baru dan beri nama `Main` dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_5;
+package pratikum_3.bagian_5;
 
 interface Terbang{
     void    terbang();
@@ -749,10 +749,10 @@ Berikut adalah contoh aplikasi console pemesanan tiket untuk sebuah konferensi y
 6. Menerapkan diskon berdasarkan jenis tiket.
 
 ### Langkah Praktikum
-1. Buat Sebuah package baru lagi didalam package `modul_3` dengan cara klik kanan dan pilih `New -> Package`. Beri nama `bagian_6`
+1. Buat Sebuah package baru lagi didalam package `pratikum_3` dengan cara klik kanan dan pilih `New -> Package`. Beri nama `bagian_6`
 2. Kemudian buat sebuah class baru dengan nama `Tiket` dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_6;
+package pratikum_3.bagian_6;
 
 abstract class Tiket {
     private final String jenis;
@@ -776,7 +776,7 @@ abstract class Tiket {
 ```
 3. Kemudian buat sebuah class baru dengan nama `TiketReguler` dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_6;
+package pratikum_3.bagian_6;
 
 public class TiketReguler extends Tiket{
     public TiketReguler(){
@@ -791,7 +791,7 @@ public class TiketReguler extends Tiket{
 ```
 4. Kemudian buat sebuah class baru dengan nama `TiketVIP` dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_6;
+package pratikum_3.bagian_6;
 
 public class TiketVIP extends Tiket{
     public TiketVIP(){
@@ -806,7 +806,7 @@ public class TiketVIP extends Tiket{
 ```
 5. Kemudian buat sebuah class baru dengan nama `Pesanan` dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_6;
+package pratikum_3.bagian_6;
 
 class Pesanan {
     private final String namaPemesan;
@@ -848,7 +848,7 @@ class Pesanan {
 ```
 6. Kemudian buat sebuah class baru dengan nama `KonferensiApp` dan isikan kode berikut:
 ```declarative
-package modul_3.bagian_6;
+package pratikum_3.bagian_6;
 
 import java.util.ArrayList;
 import java.util.Scanner;
