@@ -5,118 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74200cee-6bf3-422e-9199-ea2cf23ca945" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/bagian_1/Mahasiswa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/bagian_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/bagian_2/Kalkulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/bagian_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/bagian_3/AkeskModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/bagian_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/bagian_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/bagian_4/Mobil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/bagian_5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/bagian_5/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/bagian_6/Buku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/latihan/latihan_1/Buku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/latihan/latihan_2/Lingkaran.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/latihan/latihan_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/latihan/latihan_3/AkunBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/latihan/latihan_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/latihan/latihan_4/Mahasiswa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/latihan/latihan_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/latihan/latihan_5/Barang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/latihan/latihan_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/gambar/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/gambar/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/gambar/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/gambar/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/gambar/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/gambar/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/gambar/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/gambar/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/gambar/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/gambar/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/gambar/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/laporan.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_1/Mahasiswa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_2/Mahasiswa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_3/Kendaraan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_3/Mesin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_3/Mobil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_3/komposisi/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_3/komposisi/Mesin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_3/komposisi/Mobil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_3/pewarisan/Kendaraan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_3/pewarisan/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_3/pewarisan/Mobil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_4/overloading/Kalkulator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_4/overloading/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_4/overriding/Anjing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_4/overriding/Hewan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_4/overriding/Kucing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_4/overriding/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_5/Burung.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_5/Hewan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_5/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_5/Terbang.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_5/abstrak/Anjing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_5/abstrak/Hewan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_5/abstrak/Kucing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_5/abstrak/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_5/antarmuka/Bergerak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_5/antarmuka/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_5/antarmuka/Mobil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_5/antarmuka/Pesawat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_6/KonferensiApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_6/Pesanan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_6/Tiket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_6/TiketReguler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/bagian_6/TiketVIP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/latihan/BangunDatar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/latihan/Berenang.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/latihan/Buku.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/latihan/HewanAir.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/latihan/Ikan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/latihan/Laptop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/latihan/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/latihan/Main_Laptop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/latihan/Matematika.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/latihan/Motor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/latihan/Persegi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/latihan/Processor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/latihan/Ram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/modul_3/latihan/Utama.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_3/laporan.md" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_3/laporan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_1/Mahasiswa.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_1/Mahasiswa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_2/Mahasiswa.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_2/Mahasiswa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_3/komposisi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_3/komposisi/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_3/komposisi/Mesin.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_3/komposisi/Mesin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_3/komposisi/Mobil.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_3/komposisi/Mobil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_3/pewarisan/Kendaraan.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_3/pewarisan/Kendaraan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_3/pewarisan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_3/pewarisan/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_3/pewarisan/Mobil.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_3/pewarisan/Mobil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_4/overloading/Kalkulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_4/overloading/Kalkulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_4/overloading/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_4/overloading/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_4/overriding/Anjing.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_4/overriding/Anjing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_4/overriding/Hewan.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_4/overriding/Hewan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_4/overriding/Kucing.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_4/overriding/Kucing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_4/overriding/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_4/overriding/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_5/abstrak/Anjing.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_5/abstrak/Anjing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_5/abstrak/Hewan.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_5/abstrak/Hewan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_5/abstrak/Kucing.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_5/abstrak/Kucing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_5/abstrak/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_5/abstrak/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_5/antarmuka/Bergerak.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_5/antarmuka/Bergerak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_5/antarmuka/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_5/antarmuka/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_5/antarmuka/Mobil.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_5/antarmuka/Mobil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_5/antarmuka/Pesawat.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_5/antarmuka/Pesawat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_6/KonferensiApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_6/KonferensiApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_6/Pesanan.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_6/Pesanan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_6/Tiket.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_6/Tiket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_6/TiketReguler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_6/TiketReguler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/bagian_6/TiketVIP.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/bagian_6/TiketVIP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/latihan/BangunDatar.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/latihan/BangunDatar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/latihan/Berenang.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/latihan/Berenang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/latihan/Buku.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/latihan/Buku.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/latihan/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/latihan/Laptop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/latihan/Lingkaran.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/latihan/Lingkaran.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/latihan/Matematika.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/latihan/Matematika.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/latihan/Motor.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/latihan/Motor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/modul_3/latihan/Persegi.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_3/latihan/Persegi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_2/latihan/latihan_1/main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_2/latihan/latihan_1/main1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_2/latihan/latihan_2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_2/latihan/latihan_2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/latihan/latihan_1/Buku.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/latihan/latihan_1/Buku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/latihan/latihan_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/latihan/latihan_2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,6 +67,7 @@
     "Application.Utama.executor": "Run",
     "Application.Variable.executor": "Run",
     "Application.main.executor": "Run",
+    "Application.main1.executor": "Run",
     "Application.modul_3.bagian_2.Main.executor": "Run",
     "Application.modul_3.bagian_3.Main.executor": "Run",
     "Application.modul_3.bagian_3.komposisi.Main.executor": "Run",
@@ -172,8 +78,11 @@
     "Application.modul_3.bagian_5.antarmuka.Main.executor": "Run",
     "Application.modul_3.latihan.Main.executor": "Run",
     "Application.modul_3.latihan.main.executor": "Run",
+    "Application.pratikum_2.bagian_1.Main.executor": "Run",
     "Application.pratikum_2.bagian_2.Main.executor": "Run",
+    "Application.pratikum_2.bagian_3.Main.executor": "Run",
     "Application.pratikum_2.bagian_4.Main.executor": "Run",
+    "Application.pratikum_2.bagian_6.Main.executor": "Run",
     "Application.pratikum_2.latihan.latihan_2.Main.executor": "Run",
     "Application.pratikum_2.latihan.latihan_3.Main.executor": "Run",
     "Application.pratikum_2.latihan.latihan_4.Main.executor": "Run",

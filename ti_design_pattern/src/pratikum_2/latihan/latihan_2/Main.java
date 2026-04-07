@@ -5,6 +5,6 @@ public class Main {
         Lingkaran lingkaran = new Lingkaran();
         lingkaran.jariJari = 6.0;
 
-        System.out.println("Luas Lingkaran = " + lingkaran.hitungLuas());
+        System.out.println("Luas Lingkaran = " + lingkaran.hitungLuas() + " cm");
     }
 }

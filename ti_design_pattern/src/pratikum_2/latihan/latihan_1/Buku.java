@@ -10,5 +10,8 @@ class main1{
         Buku buku1 = new Buku();
         buku1.judul = "Jokowi sang tukang kayu";
         buku1.pengarang = "Mulyani";
+
+        System.out.println("judul: " + buku1.judul);
+        System.out.println("pengarang: " + buku1.pengarang);
     }
 }
