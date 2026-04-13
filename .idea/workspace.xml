@@ -5,23 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74200cee-6bf3-422e-9199-ea2cf23ca945" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/gambar/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/gambar/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/gambar/img_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/gambar/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/gambar/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/gambar/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/gambar/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/gambar/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/gambar/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/gambar/img_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/gambar/img_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_2/laporan.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_4/latihan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_4/latihan/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_4/latihan/OrderCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_4/latihan/OrderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_4/latihan/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_4/pratikum_1/dengan_srp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_4/pratikum_1/dengan_srp/ReportGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_4/pratikum_1/dengan_srp/ReportPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_4/pratikum_1/dengan_srp/ReportSaver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_4/pratikum_1/tanpa_srp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_4/pratikum_1/tanpa_srp/ReportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_4/pratikum_2/dengan_srp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_4/pratikum_2/dengan_srp/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_4/pratikum_2/dengan_srp/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_4/pratikum_2/dengan_srp/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_4/pratikum_2/tanpa_srp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_4/pratikum_2/tanpa_srp/UserManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_2/latihan/latihan_1/main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_2/latihan/latihan_1/main1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_2/latihan/latihan_2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_2/latihan/latihan_2/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/latihan/latihan_1/Buku.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/latihan/latihan_1/Buku.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/latihan/latihan_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_2/latihan/latihan_2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +88,10 @@
     "Application.pratikum_2.latihan.latihan_3.Main.executor": "Run",
     "Application.pratikum_2.latihan.latihan_4.Main.executor": "Run",
     "Application.pratikum_2.latihan.latihan_5.Main.executor": "Run",
+    "Application.pratikum_4.latihan.Main.executor": "Run",
+    "Application.pratikum_4.pratikum_1.dengan_srp.Main.executor": "Run",
+    "Application.pratikum_4.pratikum_1.tanpa_srp.Main.executor": "Run",
+    "Application.pratikum_4.pratikum_2.tanpa_srp.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -97,13 +102,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.pratikum_2.bagian_6.Main">
+  <component name="RunManager" selected="Application.pratikum_4.latihan.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pratikum_2.bagian_5.Main" />
+      <option name="MAIN_CLASS_NAME" value="pratikum_4.pratikum_2.dengan_srp.Main" />
       <module name="ti_design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pratikum_2.bagian_5.*" />
+          <option name="PATTERN" value="pratikum_4.pratikum_2.dengan_srp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pratikum_2.bagian_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pratikum_2.bagian_4.Main" />
+    <configuration name="pratikum_4.latihan.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pratikum_4.latihan.Main" />
       <module name="ti_design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pratikum_2.bagian_4.*" />
+          <option name="PATTERN" value="pratikum_4.latihan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pratikum_2.bagian_6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pratikum_2.bagian_6.Main" />
+    <configuration name="pratikum_4.pratikum_1.dengan_srp.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pratikum_4.pratikum_1.dengan_srp.Main" />
       <module name="ti_design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pratikum_2.bagian_6.*" />
+          <option name="PATTERN" value="pratikum_4.pratikum_1.dengan_srp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pratikum_2.latihan.latihan_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pratikum_2.latihan.latihan_4.Main" />
+    <configuration name="pratikum_4.pratikum_1.tanpa_srp.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pratikum_4.pratikum_1.tanpa_srp.Main" />
       <module name="ti_design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pratikum_2.latihan.latihan_4.*" />
+          <option name="PATTERN" value="pratikum_4.pratikum_1.tanpa_srp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pratikum_2.latihan.latihan_5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pratikum_2.latihan.latihan_5.Main" />
+    <configuration name="pratikum_4.pratikum_2.tanpa_srp.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pratikum_4.pratikum_2.tanpa_srp.Main" />
       <module name="ti_design_pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pratikum_2.latihan.latihan_5.*" />
+          <option name="PATTERN" value="pratikum_4.pratikum_2.tanpa_srp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.pratikum_2.bagian_6.Main" />
-        <item itemvalue="Application.pratikum_2.latihan.latihan_5.Main" />
+        <item itemvalue="Application.pratikum_4.latihan.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.pratikum_2.latihan.latihan_4.Main" />
-        <item itemvalue="Application.pratikum_2.bagian_4.Main" />
+        <item itemvalue="Application.pratikum_4.pratikum_2.tanpa_srp.Main" />
+        <item itemvalue="Application.pratikum_4.pratikum_1.dengan_srp.Main" />
+        <item itemvalue="Application.pratikum_4.pratikum_1.tanpa_srp.Main" />
       </list>
     </recent_temporary>
   </component>
