@@ -18,13 +18,13 @@ public class Main {
         System.out.println("memposting tweet yang valid:");
         sharePost(tweet);
 
-        System.out.println("memposting tweet yang tidak valid:");
+        System.out.println("\nmemposting tweet yang tidak valid:");
         sharePost(longTweet);
 
-        System.out.println("memposting blog:");
+        System.out.println("\nmemposting blog:");
         sharePost(blog);
 
-        System.out.println("memposting blog sekali lagi");
+        System.out.println("\nmemposting blog sekali lagi");
         sharePost(blog);
     }
 }
