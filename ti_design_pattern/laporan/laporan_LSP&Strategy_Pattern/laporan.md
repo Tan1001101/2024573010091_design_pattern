@@ -914,28 +914,6 @@ hasilnya:
 
 ---
 
-### Soal Latihan : Program Pembayaran E-Commerce (Strategy Pattern)
-Deskripsi:
-Anda diminta untuk mengembangkan sistem checkout sederhana yang mendukung tiga jenis metode pembayaran:
-- Kartu Kredit
-- E-Wallet
-- Transfer Bank
-
-#### Tugas Praktikum:
-1. Buat interface `PaymentStrategy` dengan method `pay(double amount)`.
-2. Buat tiga class yang mengimplementasikan `PaymentStrategy` yaitu: `CreditCardPayment`, `EWalletPayment`, dan `BankTransferPayment`.
-3. Buat class `Checkout`(Contex Class) yang menggunakan `PaymentStrategy`.
-4. Di dalam main, tunjukkan contoh penggunaan masing-masing metode pembayaran.
-
-#### Tugas Analisis:
-1. Jelaskan mengapa Strategy Pattern cocok digunakan dalam kasus pembayaran e-commerce.
-2. Bagaimana jika suatu hari ingin menambahkan metode pembayaran baru seperti QRIS? Apakah Anda perlu mengubah class `Checkout`?
-
-Catatan cara mengerjakan tugas praktikum
-- Buatlah sebuah package baru di dalam `modul_9` dan beri nama `latihan`
-- Di dalam `latihan`, buat sebuah package baru dan beri nama `praktikum` dan kerjakan tugas praktikum diatas di dalam package ini.
-- Di dalam `latihan`, buatlah sebuah package baru dan beri nama `analisis`, kemudian jawab soal dari tugas analisis diatas di dalam package ini dengan cara, buat sebuah file baru dengan nama `jawabab.md` dan isikan jawaban anda di dalam file tersebut. Note: Tuliskan soal kembali di dalam file jawaban anda.
-
 ### Kesimpulan
 Strategy Pattern adalah salah satu pola desain perilaku (behavioral design pattern) yang memungkinkan kita memilih algoritma (atau strategi) pada saat program berjalan (runtime) tanpa mengubah kode utama. Dengan kata lain, Strategy Pattern memisahkan logika "apa yang dilakukan" dari "bagaimana itu dilakukan".
 

@@ -5,64 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74200cee-6bf3-422e-9199-ea2cf23ca945" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/gambar/img_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/laporan.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_6/bagian_2/tanpa_LSP/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_6/bagian_2/tanpa_LSP/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/bagian_1/DrivingRoute.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/bagian_1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/bagian_1/Navigator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/bagian_1/PublicTransportRoute.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/bagian_1/RouteStrategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/bagian_1/WalkingRoute.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/bagian_2/BlackWhiteFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/bagian_2/BrightFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/bagian_2/FilterStrategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/bagian_2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/bagian_2/PhotoEditor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/bagian_2/SepiaFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/bagian_3/EmailNotification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/bagian_3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/bagian_3/NotificationService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/bagian_3/NotificationStrategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/bagian_3/PushNotification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/bagian_3/SMSNotification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/latihan/BankTransferPayment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/latihan/Checkout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/latihan/CreditCardPayment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/latihan/EWalletPayment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/latihan/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ti_design_pattern/pratikum_9/latihan/PaymentStrategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_6/bagian_2/tanpa_LSP/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/src/pratikum_6/bagian_2/tanpa_LSP/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/laporan.md" beforeDir="false" afterPath="$PROJECT_DIR$/ti_design_pattern/laporan/laporan_LSP&amp;Strategy_Pattern/laporan.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,76 +32,76 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Faktorial.executor": "Run",
-    "Application.HelloWorld.executor": "Run",
-    "Application.KonferensiApp.executor": "Run",
-    "Application.Latihan.executor": "Run",
-    "Application.LatihanOperator.executor": "Run",
-    "Application.LatihanPercabangan.executor": "Run",
-    "Application.LatihanPerulangan.executor": "Run",
-    "Application.LatihanVariabel.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Main_BangunDatar.executor": "Run",
-    "Application.Main_Laptop.executor": "Run",
-    "Application.Operator.executor": "Run",
-    "Application.Percabangan.executor": "Run",
-    "Application.Perulangan.executor": "Run",
-    "Application.Prima.executor": "Run",
-    "Application.Segitiga.executor": "Run",
-    "Application.Utama.executor": "Run",
-    "Application.Variable.executor": "Run",
-    "Application.main.executor": "Run",
-    "Application.main1.executor": "Run",
-    "Application.modul_3.bagian_2.Main.executor": "Run",
-    "Application.modul_3.bagian_3.Main.executor": "Run",
-    "Application.modul_3.bagian_3.komposisi.Main.executor": "Run",
-    "Application.modul_3.bagian_3.pewarisan.Main.executor": "Run",
-    "Application.modul_3.bagian_4.overloading.Main.executor": "Run",
-    "Application.modul_3.bagian_4.overriding.Main.executor": "Run",
-    "Application.modul_3.bagian_5.Main.executor": "Run",
-    "Application.modul_3.bagian_5.antarmuka.Main.executor": "Run",
-    "Application.modul_3.latihan.Main.executor": "Run",
-    "Application.modul_3.latihan.main.executor": "Run",
-    "Application.pratikum_2.bagian_1.Main.executor": "Run",
-    "Application.pratikum_2.bagian_2.Main.executor": "Run",
-    "Application.pratikum_2.bagian_3.Main.executor": "Run",
-    "Application.pratikum_2.bagian_4.Main.executor": "Run",
-    "Application.pratikum_2.bagian_6.Main.executor": "Run",
-    "Application.pratikum_2.latihan.latihan_2.Main.executor": "Run",
-    "Application.pratikum_2.latihan.latihan_3.Main.executor": "Run",
-    "Application.pratikum_2.latihan.latihan_4.Main.executor": "Run",
-    "Application.pratikum_2.latihan.latihan_5.Main.executor": "Run",
-    "Application.pratikum_4.latihan.Main.executor": "Run",
-    "Application.pratikum_4.pratikum_1.dengan_srp.Main.executor": "Run",
-    "Application.pratikum_4.pratikum_1.tanpa_srp.Main.executor": "Run",
-    "Application.pratikum_4.pratikum_2.tanpa_srp.Main.executor": "Run",
-    "Application.pratikum_5.latihan.Main.executor": "Run",
-    "Application.pratikum_5.pratikum_1.tanpa_ocp.Main.executor": "Run",
-    "Application.pratikum_5.pratikum_2.dengan_ocp.Main.executor": "Run",
-    "Application.pratikum_5.pratikum_2.tanpa_ocp.Main.executor": "Run",
-    "Application.pratikum_5.pratikum_3.dengan_ocp.Main.executor": "Run",
-    "Application.pratikum_5.pratikum_3.tanpa_ocp.Main.executor": "Run",
-    "Application.pratikum_6.Latihan.Main.executor": "Run",
-    "Application.pratikum_6.bagian_1.dengan_LSP.Main.executor": "Run",
-    "Application.pratikum_6.bagian_1.tanpa_LSP.Main.executor": "Run",
-    "Application.pratikum_6.bagian_2.dengan_LSP.Main.executor": "Run",
-    "Application.pratikum_6.bagian_2.tanpa_LSP.Main.executor": "Run",
-    "Application.pratikum_7.bagian_2.Main.executor": "Run",
-    "Application.pratikum_7.bagian_3.Main.executor": "Run",
-    "Application.pratikum_7.latihan.Main.executor": "Run",
-    "Application.pratikum_9.bagian_1.Main.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Faktorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KonferensiApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Latihan.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LatihanOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LatihanPercabangan.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LatihanPerulangan.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LatihanVariabel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_BangunDatar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_Laptop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Percabangan.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Perulangan.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prima.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Segitiga.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Utama.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.modul_3.bagian_2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.modul_3.bagian_3.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.modul_3.bagian_3.komposisi.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.modul_3.bagian_3.pewarisan.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.modul_3.bagian_4.overloading.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.modul_3.bagian_4.overriding.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.modul_3.bagian_5.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.modul_3.bagian_5.antarmuka.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.modul_3.latihan.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.modul_3.latihan.main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_2.bagian_1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_2.bagian_2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_2.bagian_3.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_2.bagian_4.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_2.bagian_6.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_2.latihan.latihan_2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_2.latihan.latihan_3.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_2.latihan.latihan_4.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_2.latihan.latihan_5.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_4.latihan.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_4.pratikum_1.dengan_srp.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_4.pratikum_1.tanpa_srp.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_4.pratikum_2.tanpa_srp.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_5.latihan.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_5.pratikum_1.tanpa_ocp.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_5.pratikum_2.dengan_ocp.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_5.pratikum_2.tanpa_ocp.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_5.pratikum_3.dengan_ocp.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_5.pratikum_3.tanpa_ocp.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_6.Latihan.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_6.bagian_1.dengan_LSP.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_6.bagian_1.tanpa_LSP.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_6.bagian_2.dengan_LSP.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_6.bagian_2.tanpa_LSP.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_7.bagian_2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_7.bagian_3.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_7.latihan.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pratikum_9.bagian_1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.pratikum_7.bagian_3.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pratikum_7.bagian_1.Main" />
